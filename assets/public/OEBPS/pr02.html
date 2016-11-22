@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+
+<head>
+    <title>Preface</title>
+    <link rel="stylesheet" type="text/css" href="core.css" />
+</head>
+
+<body>
+    <section class="preface" title="Preface" epub:type="preface">
+        <div class="chaptertitle">
+            <h2 class="title">Preface</h2>
+        </div>
+        <section class="sect1" title="Introduction" id="I_sect1_id306737">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id306737">Introduction</h2>
+            </div>
+            <p>
+                There are many books on the web technologies covered in this publication. However, there are precious few on JavaScript that can be recommended to somebody who wants to learn how to build a complete JavaScript application from the ground up. Meanwhile, almost every new tech startup needs knowledgeable JavaScript application developers on staff. This book exists for one purpose: to help you gain the knowledge you need to build complete JavaScript applications that are easy to extend and maintain.
+            </p>
+            <p>
+                This book is not intended to teach you the basics of JavaScript. Instead, it’s designed to build on your existing knowledge and discuss JavaScript features and techniques that will make your code easier to work with over time. Normally, as an application grows, it becomes increasingly difficult to add new features and fix bugs. Your code becomes too rigid and fragile, and even a small change could necessitate a lengthy refactor. If you follow the patterns outlined in this book, your code will remain flexible and resilient. Changes to one piece of code won’t negatively impact another.
+            </p>
+            <p>
+                This book will focus primarily on client-side architecture, although it will also cover server-side topics, such as basic RESTful APIs and Node. The trend is that a great deal of the application logic is getting pushed to the client. It was once the case that the server environment would handle things like templating and communication with vendor services. Now, it’s common to deal with both of those jobs inside the browser.
+            </p>
+            <p>
+                In fact, a modern JavaScript application does almost everything a traditional desktop app would do completely in the browser. Of course, servers are still handy. Server roles frequently include serving static content and dynamically loaded modules, data persistence, action logging, and interfacing with third-party APIs.
+            </p>
+            <p>We’ll cover:</p>
+            <div>
+                <ul>
+                    <li>
+                        <p>
+                            JavaScript features and best practices for application developers
+                        </p>
+                    </li>
+                    <li>
+                        <p>Code organization, modularity, and reuse</p>
+                    </li>
+                    <li>
+                        <p>Separation of concerns on the client side (MVC, etc.)</p>
+                    </li>
+                    <li>
+                        <p>Communicating with servers and APIs</p>
+                    </li>
+                    <li>
+                        <p>Designing and programming RESTful APIs with Node.js</p>
+                    </li>
+                    <li>
+                        <p>Building, testing, collaboration, deployment, and scaling</p>
+                    </li>
+                    <li>
+                        <p>Expanding reach via internationalization</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="sect1" title="Who This Book Is For" id="I_sect1_id306832">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id306832">Who This Book Is For</h2>
+            </div>
+            <p>
+                You have some experience with JavaScript; at least a year or two working frequently with the language, but you want to learn more about how you can apply it specifically to developing robust web-scale or enterprise applications.
+            </p>
+            <p>
+                You know a thing or two about programming, but you have an insatiable thirst to learn more. In particular, you’d like to learn more about how to apply the powerful features that distinguish JavaScript from other languages, such as closures, functional programming, and prototypal inheritance (even if this is the first you’ve heard of them).
+            </p>
+            <p>
+                Perhaps you’d also like to learn about how to apply test-driven development (TDD) techniques to your next JavaScript challenge. This book uses tests throughout the code examples. By the time you reach the end, you should be in the habit of thinking about how you’ll test the code you write.
+            </p>
+        </section>
+        <section class="sect1" title="Who This Book Is Not For" id="I_sect1_id306856">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id306856">Who This Book Is Not For</h2>
+            </div>
+            <p>
+                This book covers a lot of ground quickly. It was not written with the beginner in mind, but if you need clarification, you might find it in <em><a class="ulink" href="http://shop.oreilly.com/product/9780596517748.do" target="_top">JavaScript: The Good Parts</a></em> , by
+                <span id="I_indexterm_id306872"></span>
+                <span id="I_indexterm_id306877"></span> Douglas Crockford (O’Reilly, 2008), <em><a class="ulink" href="http://shop.oreilly.com/product/9780596805531.do" target="_top">
+                    JavaScript: The
+                Definitive Guide
+                </a></em> , by
+                <span id="I_indexterm_id306892" />
+                <span id="I_indexterm_id306897" /> David Flannagan (O’Reilly, 2011), or for help with software design patterns, the famous
+                <span id="I_indexterm_id306906" />
+                <span id="I_indexterm_id306911" />
+                <span id="I_indexterm_id306916" />
+                <span id="I_indexterm_id306922" />
+                <span id="I_indexterm_id306927" />
+                <span id="I_indexterm_id306932" /> Gang of Four book (GoF),
+                <a class="ulink" href="http://bit.ly/1pwzcUc" target="_top">
+                    <em>
+                    Design Patterns: Elements of
+                        Reusable Object-Oriented Software
+                </em>
+                </a>
+                , by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Addison-Wesley, 1994).
+            </p>
+            <p>
+                Google and Wikipedia can be handy guides to help you through, as well. Wikipedia is a fairly good reference for software design patterns.
+            </p>
+            <p>
+                If this is your first exposure to JavaScript, you would do well to study some introductory texts and tutorials before you attempt to tackle this book. My favorite is
+                <a class="ulink" href="http://eloquentjavascript.net/" target="_top">
+                    <em>
+                    Eloquent
+                        JavaScript
+                </em> by Marijn Haverbeke
+                </a>
+                (No Starch Press, 2011). Be sure to follow that up with
+                <em>
+                    JavaScript: The Good
+                    Parts
+                </em> , and pay special attention to
+                <a class="xref" href="apa.html" title="Appendix A. JavaScript Style Guide">Appendix A</a> so that you can learn from the mistakes made by more experienced JavaScript developers.
+            </p>
+        </section>
+        <section class="sect1" title="Unit Testing" id="I_sect1_id306974">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id306974">Unit Testing</h2>
+            </div>
+            <p>
+                It’s difficult to overstate the importance of unit testing. Unit tests are used throughout this book. By the time you reach the end, you should be accustomed to seeing and writing them. As you practice the concepts you read about, start by writing the tests first. You’ll get a better understanding of the problem domain, and you’ll be forced to think through the design for your solution and the interface you create for it. Designing for unit tests also forces you to keep your code decoupled. The discipline of writing testable, decoupled code will serve you well your entire career.
+            </p>
+            <p>
+                For a reference on unit tests and code style, see
+                <a class="xref" href="apa.html" title="Appendix A. JavaScript Style Guide">Appendix A</a> .
+            </p>
+        </section>
+        <section class="sect1" title="Conventions Used in This Book" id="I_sect1_id307002">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id307002">Conventions Used in This Book</h2>
+            </div>
+            <p>
+                The following typographical conventions are used in this book:
+            </p>
+            <div>
+                <dl>
+                    <dt>
+                        <span class="term">Italic</span>
+                    </dt>
+                    <dd>
+                        <p>
+                            Indicates new terms, URLs, email addresses, filenames, and file extensions.
+                        </p>
+                    </dd>
+                    <dt>
+                        <span class="term">
+                        <code >Constant width</code>
+                    </span>
+                    </dt>
+                    <dd>
+                        <p>
+                            Used for program listings, as well as within paragraphs to refer to program elements such as variable or function names, databases, datatypes, environment variables, statements, and keywords.
+                        </p>
+                    </dd>
+                    <dt>
+                        <span class="term">
+                        <strong class="userinput">
+                            <code>Constant width bold</code>
+                        </strong>
+                    </span>
+                    </dt>
+                    <dd>
+                        <p>
+                            Shows commands or other text that should be typed literally by the user.
+                        </p>
+                    </dd>
+                    <dt>
+                        <span class="term">
+                        <em class="replaceable">
+                            <code>Constant width italic</code>
+                        </em>
+                    </span>
+                    </dt>
+                    <dd>
+                        <p>
+                            Shows text that should be replaced with user-supplied values or by values determined by context.
+                        </p>
+                    </dd>
+                </dl>
+            </div>
+            <div class="tip" title="Tip">
+                <h3 class="title">Tip</h3>
+                <p>This icon signifies a tip, suggestion, or general note.</p>
+            </div>
+            <div class="caution" title="Caution">
+                <h3 class="title">Caution</h3>
+                <p>This icon indicates a warning or caution.</p>
+            </div>
+        </section>
+        <section class="sect1" title="How to Contact Us" id="I_sect1_id307133">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id307133">How to Contact Us</h2>
+            </div>
+            <p>
+                Please address comments and questions concerning this book to the publisher:
+            </p>
+            <table class="simplelist">
+                <tr>
+                    <td>O’Reilly Media, Inc.</td>
+                </tr>
+                <tr>
+                    <td>1005 Gravenstein Highway North</td>
+                </tr>
+                <tr>
+                    <td>Sebastopol, CA 95472</td>
+                </tr>
+                <tr>
+                    <td>800-998-9938 (in the United States or Canada)</td>
+                </tr>
+                <tr>
+                    <td>707-829-0515 (international or local)</td>
+                </tr>
+                <tr>
+                    <td>707-829-0104 (fax)</td>
+                </tr>
+            </table>
+            <p>
+                We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at:
+            </p>
+            <table class="simplelist">
+                <tr>
+                    <td>
+                        <a class="ulink" href="http://bit.ly/programming-jsa" target="_top">http://bit.ly/programming-jsa</a>
+                    </td>
+                </tr>
+            </table>
+            <p>
+                To comment or ask technical questions about this book, send email to:
+            </p>
+            <table class="simplelist">
+                <tr>
+                    <td>
+                        <a class="email" href="mailto:bookquestions@oreilly.com">bookquestions@oreilly.com</a>
+                    </td>
+                </tr>
+            </table>
+            <p>
+                For more information about our books, courses, conferences, and news, see our website at
+                <a class="ulink" href="http://www.oreilly.com" target="_top">http://www.oreilly.com</a> .
+            </p>
+            <p>
+                Find us on Facebook:
+                <a class="ulink" href="http://facebook.com/oreilly" target="_top">http://facebook.com/oreilly</a>
+            </p>
+            <p>
+                Follow us on Twitter:
+                <a class="ulink" href="http://twitter.com/oreillymedia" target="_top">http://twitter.com/oreillymedia</a>
+            </p>
+            <p>
+                Watch us on YouTube:
+                <a class="ulink" href="http://www.youtube.com/oreillymedia" target="_top">http://www.youtube.com/oreillymedia</a>
+            </p>
+        </section>
+        <section class="sect1" title="Thanks" id="I_sect1_id307243">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect1_id307243">Thanks</h2>
+            </div>
+            <p>
+                Thanks
+                <a class="ulink" href="https://twitter.com/JS_Cheerleader" target="_top">@JS_Cheerleader</a> for encouragement and lots of great JavaScript links.
+            </p>
+            <p>
+                Thanks to Brendan Eich for his tireless work to drive JavaScript and the web forward. Thanks to the team at O’Reilly. To Simon St. Laurent, who immediately recognized the value of the book and provided a lot of encouragement along the way. To Brian McDonald, whose valuable feedback made this a much better book. To Meghan Blanchette for keeping the momentum alive. Thanks to the following individuals for their great technical feedback:
+            </p>
+            <div>
+                <ul>
+                    <li>
+                        <p>César Andreu</p>
+                    </li>
+                    <li>
+                        <p>James Halliday (Substack)</p>
+                    </li>
+                    <li>
+                        <p>Hugh Jackson</p>
+                    </li>
+                    <li>
+                        <p>Ramsey Lawson</p>
+                    </li>
+                    <li>
+                        <p>Shelley Powers</p>
+                    </li>
+                    <li>
+                        <p>Kyle Simpson</p>
+                    </li>
+                    <li>
+                        <p>Kevin Western</p>
+                    </li>
+                </ul>
+            </div>
+            <p>
+                A special thank you to the people who have contributed to the open source projects written for this book, and to all of the open source contributors who make programming JavaScript applications a much better experience every single day. As software developers, we are all standing on the shoulders of giants.
+            </p>
+        </section>
+    </section>
+</body>
+
+</html>

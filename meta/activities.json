@@ -1,0 +1,4708 @@
+{
+  "items": [
+    {
+      "name": "activity01_01",
+      "item-code": "activity01_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-sc-qs-1",
+          "item-code": "activity01_01/mcq-sc-qs-1",
+          "item-type": "resource",
+          "resource": "RE_0001"
+        },
+        {
+          "name": "mcq-sc-qs-2",
+          "item-code": "activity01_01/mcq-sc-qs-2",
+          "item-type": "resource",
+          "resource": "RE_0002"
+        },
+        {
+          "name": "mcq-sc-qs-3",
+          "item-code": "activity01_01/mcq-sc-qs-3",
+          "item-type": "resource",
+          "resource": "RE_0003"
+        },
+        {
+          "name": "mcq-sc-qs-4",
+          "item-code": "activity01_01/mcq-sc-qs-4",
+          "item-type": "resource",
+          "resource": "RE_0004"
+        }
+      ]
+    },
+    {
+      "name": "activity01_02",
+      "item-code": "activity01_02",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch01ac02_01",
+          "item-code": "activity01_02/mcq-ch01ac02_01",
+          "item-type": "resource",
+          "resource": "RE_0005"
+        },
+        {
+          "name": "mcq-ch01ac02_02",
+          "item-code": "activity01_02/mcq-ch01ac02_02",
+          "item-type": "resource",
+          "resource": "RE_0006"
+        },
+        {
+          "name": "mcq-ch01ac02_03",
+          "item-code": "activity01_02/mcq-ch01ac02_03",
+          "item-type": "resource",
+          "resource": "RE_0007"
+        },
+        {
+          "name": "mcq-ch01ac02_04",
+          "item-code": "activity01_02/mcq-ch01ac02_04",
+          "item-type": "resource",
+          "resource": "RE_0008"
+        }
+      ]
+    },
+    {
+      "name": "activity02_01",
+      "item-code": "activity02_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-sc-qs-5",
+          "item-code": "activity02_01/mcq-sc-qs-5",
+          "item-type": "resource",
+          "resource": "RE_0009"
+        },
+        {
+          "name": "mcq-sc-qs-6",
+          "item-code": "activity02_01/mcq-sc-qs-6",
+          "item-type": "resource",
+          "resource": "RE_0010"
+        },
+        {
+          "name": "mcq-sc-qs-7",
+          "item-code": "activity02_01/mcq-sc-qs-7",
+          "item-type": "resource",
+          "resource": "RE_0011"
+        },
+        {
+          "name": "mcq-sc-qs-8",
+          "item-code": "activity02_01/mcq-sc-qs-8",
+          "item-type": "resource",
+          "resource": "RE_0012"
+        }
+      ]
+    },
+    {
+      "name": "activity03_01",
+      "item-code": "activity03_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch03ac01_01",
+          "item-code": "activity03_01/mcq-ch03ac01_01",
+          "item-type": "resource",
+          "resource": "RE_0013"
+        },
+        {
+          "name": "mcq-ch03ac01_02",
+          "item-code": "activity03_01/mcq-ch03ac01_02",
+          "item-type": "resource",
+          "resource": "RE_0014"
+        },
+        {
+          "name": "mcq-ch03ac01_03",
+          "item-code": "activity03_01/mcq-ch03ac01_03",
+          "item-type": "resource",
+          "resource": "RE_0015"
+        },
+        {
+          "name": "mcq-ch03ac01_04",
+          "item-code": "activity03_01/mcq-ch03ac01_04",
+          "item-type": "resource",
+          "resource": "RE_0016"
+        }
+      ]
+    },
+    {
+      "name": "activity03_02",
+      "item-code": "activity03_02",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch03_01",
+          "item-code": "activity03_02/mcq-ch03_01",
+          "item-type": "resource",
+          "resource": "RE_0017"
+        },
+        {
+          "name": "mcq-ch03_02",
+          "item-code": "activity03_02/mcq-ch03_02",
+          "item-type": "resource",
+          "resource": "RE_0018"
+        },
+        {
+          "name": "mcq-ch03_03",
+          "item-code": "activity03_02/mcq-ch03_03",
+          "item-type": "resource",
+          "resource": "RE_0019"
+        },
+        {
+          "name": "mcq-ch03_04",
+          "item-code": "activity03_02/mcq-ch03_04",
+          "item-type": "resource",
+          "resource": "RE_0020"
+        }
+      ]
+    },
+    {
+      "name": "activity04_01",
+      "item-code": "activity04_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch04_01",
+          "item-code": "activity04_01/mcq-ch04_01",
+          "item-type": "resource",
+          "resource": "RE_0021"
+        },
+        {
+          "name": "mcq-ch04_02",
+          "item-code": "activity04_01/mcq-ch04_02",
+          "item-type": "resource",
+          "resource": "RE_0022"
+        },
+        {
+          "name": "mcq-ch04_03",
+          "item-code": "activity04_01/mcq-ch04_03",
+          "item-type": "resource",
+          "resource": "RE_0023"
+        },
+        {
+          "name": "mcq-ch04_04",
+          "item-code": "activity04_01/mcq-ch04_04",
+          "item-type": "resource",
+          "resource": "RE_0024"
+        }
+      ]
+    },
+    {
+      "name": "activity05_01",
+      "item-code": "activity05_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch05ac01_01",
+          "item-code": "activity05_01/mcq-ch05ac01_01",
+          "item-type": "resource",
+          "resource": "RE_0025"
+        },
+        {
+          "name": "mcq-ch05ac01_02",
+          "item-code": "activity05_01/mcq-ch05ac01_02",
+          "item-type": "resource",
+          "resource": "RE_0026"
+        },
+        {
+          "name": "mcq-ch05ac01_03",
+          "item-code": "activity05_01/mcq-ch05ac01_03",
+          "item-type": "resource",
+          "resource": "RE_0027"
+        },
+        {
+          "name": "mcq-ch05ac01_04",
+          "item-code": "activity05_01/mcq-ch05ac01_04",
+          "item-type": "resource",
+          "resource": "RE_0028"
+        }
+      ]
+    },
+    {
+      "name": "activity05_02",
+      "item-code": "activity05_02",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch05_01",
+          "item-code": "activity05_02/mcq-ch05_01",
+          "item-type": "resource",
+          "resource": "RE_0029"
+        },
+        {
+          "name": "mcq-ch05_02",
+          "item-code": "activity05_02/mcq-ch05_02",
+          "item-type": "resource",
+          "resource": "RE_0030"
+        },
+        {
+          "name": "mcq-ch05_03",
+          "item-code": "activity05_02/mcq-ch05_03",
+          "item-type": "resource",
+          "resource": "RE_0031"
+        },
+        {
+          "name": "mcq-ch05_04",
+          "item-code": "activity05_02/mcq-ch05_04",
+          "item-type": "resource",
+          "resource": "RE_0032"
+        }
+      ]
+    },
+    {
+      "name": "activity06_01",
+      "item-code": "activity06_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch06_01",
+          "item-code": "activity06_01/mcq-ch06_01",
+          "item-type": "resource",
+          "resource": "RE_0033"
+        },
+        {
+          "name": "mcq-ch06_02",
+          "item-code": "activity06_01/mcq-ch06_02",
+          "item-type": "resource",
+          "resource": "RE_0034"
+        },
+        {
+          "name": "mcq-ch06_03",
+          "item-code": "activity06_01/mcq-ch06_03",
+          "item-type": "resource",
+          "resource": "RE_0035"
+        },
+        {
+          "name": "mcq-ch06_04",
+          "item-code": "activity06_01/mcq-ch06_04",
+          "item-type": "resource",
+          "resource": "RE_0036"
+        }
+      ]
+    },
+    {
+      "name": "activity07_01",
+      "item-code": "activity07_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch07ac01_01",
+          "item-code": "activity07_01/mcq-ch07ac01_01",
+          "item-type": "resource",
+          "resource": "RE_0037"
+        },
+        {
+          "name": "mcq-ch07ac01_02",
+          "item-code": "activity07_01/mcq-ch07ac01_02",
+          "item-type": "resource",
+          "resource": "RE_0038"
+        },
+        {
+          "name": "mcq-ch07ac01_03",
+          "item-code": "activity07_01/mcq-ch07ac01_03",
+          "item-type": "resource",
+          "resource": "RE_0039"
+        },
+        {
+          "name": "mcq-ch07ac01_04",
+          "item-code": "activity07_01/mcq-ch07ac01_04",
+          "item-type": "resource",
+          "resource": "RE_0040"
+        }
+      ]
+    },
+    {
+      "name": "activity07_02",
+      "item-code": "activity07_02",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch07_01",
+          "item-code": "activity07_02/mcq-ch07_01",
+          "item-type": "resource",
+          "resource": "RE_0041"
+        },
+        {
+          "name": "mcq-ch07_02",
+          "item-code": "activity07_02/mcq-ch07_02",
+          "item-type": "resource",
+          "resource": "RE_0042"
+        },
+        {
+          "name": "mcq-ch07_03",
+          "item-code": "activity07_02/mcq-ch07_03",
+          "item-type": "resource",
+          "resource": "RE_0043"
+        },
+        {
+          "name": "mcq-ch07_04",
+          "item-code": "activity07_02/mcq-ch07_04",
+          "item-type": "resource",
+          "resource": "RE_0044"
+        }
+      ]
+    },
+    {
+      "name": "activity08_01",
+      "item-code": "activity08_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch08_01",
+          "item-code": "activity08_01/mcq-ch08_01",
+          "item-type": "resource",
+          "resource": "RE_0045"
+        },
+        {
+          "name": "mcq-ch08_02",
+          "item-code": "activity08_01/mcq-ch08_02",
+          "item-type": "resource",
+          "resource": "RE_0046"
+        },
+        {
+          "name": "mcq-ch08_03",
+          "item-code": "activity08_01/mcq-ch08_03",
+          "item-type": "resource",
+          "resource": "RE_0047"
+        },
+        {
+          "name": "mcq-ch08_04",
+          "item-code": "activity08_01/mcq-ch08_04",
+          "item-type": "resource",
+          "resource": "RE_0048"
+        }
+      ]
+    },
+    {
+      "name": "activity09_01",
+      "item-code": "activity09_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch09_01",
+          "item-code": "activity09_01/mcq-ch09_01",
+          "item-type": "resource",
+          "resource": "RE_0049"
+        },
+        {
+          "name": "mcq-ch09_02",
+          "item-code": "activity09_01/mcq-ch09_02",
+          "item-type": "resource",
+          "resource": "RE_0050"
+        },
+        {
+          "name": "mcq-ch09_03",
+          "item-code": "activity09_01/mcq-ch09_03",
+          "item-type": "resource",
+          "resource": "RE_0051"
+        },
+        {
+          "name": "mcq-ch09_04",
+          "item-code": "activity09_01/mcq-ch09_04",
+          "item-type": "resource",
+          "resource": "RE_0052"
+        }
+      ]
+    },
+    {
+      "name": "activity09_02",
+      "item-code": "activity09_02",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch09ac02_01",
+          "item-code": "activity09_02/mcq-ch09ac02_01",
+          "item-type": "resource",
+          "resource": "RE_0053"
+        },
+        {
+          "name": "mcq-ch09ac02_02",
+          "item-code": "activity09_02/mcq-ch09ac02_02",
+          "item-type": "resource",
+          "resource": "RE_0054"
+        },
+        {
+          "name": "mcq-ch09ac02_03",
+          "item-code": "activity09_02/mcq-ch09ac02_03",
+          "item-type": "resource",
+          "resource": "RE_0055"
+        },
+        {
+          "name": "mcq-ch09ac02_04",
+          "item-code": "activity09_02/mcq-ch09ac02_04",
+          "item-type": "resource",
+          "resource": "RE_0056"
+        }
+      ]
+    },
+    {
+      "name": "activity10_01",
+      "item-code": "activity10_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "mcq-ch10_01",
+          "item-code": "activity10_01/mcq-ch10_01",
+          "item-type": "resource",
+          "resource": "RE_0057"
+        },
+        {
+          "name": "mcq-ch10_02",
+          "item-code": "activity10_01/mcq-ch10_02",
+          "item-type": "resource",
+          "resource": "RE_0058"
+        },
+        {
+          "name": "mcq-ch10_03",
+          "item-code": "activity10_01/mcq-ch10_03",
+          "item-type": "resource",
+          "resource": "RE_0059"
+        },
+        {
+          "name": "mcq-ch10_04",
+          "item-code": "activity10_01/mcq-ch10_04",
+          "item-type": "resource",
+          "resource": "RE_0060"
+        }
+      ]
+    }
+  ],
+  "resources": {
+  	"RE_0001": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "JavaScript is designed for following purpose -<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "To Style HTML Pages"
+              },
+              {
+                "choiceB": "To Execute Query Related to DB on Server"
+              },
+              {
+                "choiceC": "To add interactivity to HTML Pages"
+              },
+              {
+                "choiceD": "To Perform Server Side Scripting Opertion"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0002": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Why JavaScript is called as Lightweight Programming Language ?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "because we can add programming functionality inside JS"
+              },
+              {
+                "choiceB": "because JS is client side scripting"
+              },
+              {
+                "choiceC": "because JS can provide programming functionality inside but up to certain extend"
+              },
+              {
+                "choiceD": "because JS is available free of cost."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0003": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following Attribute is used to include External JS code inside your HTML Document -<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "ext"
+              },
+              {
+                "choiceB": "src"
+              },
+              {
+                "choiceC": "script"
+              },
+              {
+                "choiceD": "link"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ] 
+    },
+    "RE_0004": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "State the correct place of JS Code inside HTML -<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Inside Body"
+              },
+              {
+                "choiceB": "Inside Head"
+              },
+              {
+                "choiceC": "Inside Single JavaScript File"
+              },
+              {
+                "choiceD": "All of these"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ] 
+    },
+    "RE_0005": {
+       "meta": {
+          "type": "MCSR",
+          "score": {
+            "default": "0",
+            "max": "1",
+            "min": "0"
+          }
+        },
+        "content": {
+          "instructions": [
+            {
+              "tag": "html",
+              "html": ""
+            } 
+          ],
+          "stimulus": [
+            {
+              "tag": ""
+            }
+          ],
+          "canvas": {
+            "layout": "MCQ",
+            "data": {
+              "questiondata": [
+                {
+                  "text": "JavaScript Statements are executed by?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                }
+              ]
+            },
+            "raw": ""
+          },
+          "interactions": {
+            "i1": {
+              "type": "MCSR",
+              "MCSR": [
+                {
+                  "choiceA": "JVM" 
+                },
+                {
+                  "choiceB": "Server"
+                },
+                {
+                  "choiceC": "Compiler"
+                },
+                {
+                  "choiceD": "Browser"
+                }
+              ]
+            }
+          },
+          "hint": {}
+        },
+        "feedback": {
+          "global": {
+            "correct": "",
+            "incorrect": "",
+            "empty": ""
+          }
+        },
+        "responses": {
+          "i1": {
+            "correct": "choiceD"
+          }
+        },
+        "learning-objectives": [],
+        "tags": [
+          "test"
+        ]
+    },
+    "RE_0006": {
+     "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Java Statement is terminated by?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Slash" 
+              },
+              {
+                "choiceB": "Comma"
+              },
+              {
+                "choiceC": "Semicolon"
+              },
+              {
+                "choiceD": "Full Stop"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0007": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "JavaScript code contain sequence of?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "HTML Tags" 
+              },
+              {
+                "choiceB": "Method Calls"
+              },
+              {
+                "choiceC": "Executable Statements"
+              },
+              {
+                "choiceD": "All of these"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0008": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following statement is used to declare variable in JavaScript ?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Assignment Statement" 
+              },
+              {
+                "choiceB": "Declaration Statement"
+              },
+              {
+                "choiceC": "Conditional Statement"
+              },
+              {
+                "choiceD": "Executable Statement"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0009": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "The function definitions in JavaScript begins with?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Identifier and Paranthesis"
+              },
+              {
+                "choiceB": "Return type and Identifier"
+              },
+              {
+                "choiceC": "Return type, Function keyword, Identifier and Paranthesis"
+              },
+              {
+                "choiceD": "Identifier and Return type"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0010": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In JavaScript, lambdas are commonly used to?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Perform operations on the other arguments passed in"
+              },
+              {
+                "choiceB": "Attach event handlers for DOM interactions."
+              },
+              {
+                "choiceC": "Pass in a callback function to be executed when the current function is complete"
+              },
+              {
+                "choiceD": "All of the above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0011": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "When does the function name become optional in JavaScript?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "When the function is defined as a looping statement"
+              },
+              {
+                "choiceB": "When the function is defined as expressions"
+              },
+              {
+                "choiceC": "When the function is predefined"
+              },
+              {
+                "choiceD": "All of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0012": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is self-invoked anonymous function?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Function which is invoked as soon as it is defined"
+              },
+              {
+                "choiceB": "Function which is invoked before it is defined"
+              },
+              {
+                "choiceC": "Recursive function"
+              },
+              {
+                "choiceD": "Immediately Invoked Function Expression"
+              },
+              {
+                "choiceE": "Both (a) and (d)"
+              },
+              {
+                "choiceF": "None of the above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceE"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0013": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is the result of the following code snippet?<br/>var name = 'john wright'<br/>document.write(name.length);<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "11" 
+              },
+              {
+                "choiceB": "10"
+              },
+              {
+                "choiceC": "4"
+              },
+              {
+                "choiceD": "12"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0014": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Built - in JavaScript function which can be used to execute another function after a given time interval?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Timeout( )" 
+              },
+              {
+                "choiceB": "TimeInterval( )"
+              },
+              {
+                "choiceC": "setTimeout ( )"
+              },
+              {
+                "choiceD": "All of the above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0015": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is the result of the following code snippet?</br>window.location === document.location<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "False" 
+              },
+              {
+                "choiceB": "True"
+              },
+              {
+                "choiceC": "0"
+              },
+              {
+                "choiceD": "1"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0016": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is the result of the following code snippet?<br/>var name = 'john wright'<br/>document.write(name.length);<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "11" 
+              },
+              {
+                "choiceB": "10"
+              },
+              {
+                "choiceC": "4"
+              },
+              {
+                "choiceD": "12"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ] 
+    },
+    "RE_0017": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Can we get data encapsulation by using private variables?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Yes" 
+              },
+              {
+                "choiceB": "No"
+              },
+              {
+                "choiceC": "Can't say"
+              },
+              {
+                "choiceD": "None"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0018": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following are objects in javascript?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Functions" 
+              },
+              {
+                "choiceB": "Arrays"
+              },
+              {
+                "choiceC": "Key/value pairs"
+              },
+              {
+                "choiceD": "All of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0019": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "function person(first, last, age, eye) {<br/>this.firstName = first;<br/>this.lastName = last;<br/>}<br/>var myFather = new person('John', 'Doe', 50, 'blue');<br/>what will be the output of myFather.firstName ?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "john" 
+              },
+              {
+                "choiceB": "undefined"
+              },
+              {
+                "choiceC": "Doe"
+              },
+              {
+                "choiceD": "first"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]     
+    },
+    "RE_0020": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "var original = {<br/>name: 'primaryColors',<br/> values: ['red', 'green', 'blue']<br/>};<br/>var copy = Object.clone(original);<br/>copy.name = 'secondaryColors';<br/>value of original.name will be?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "secondaryColors" 
+              },
+              {
+                "choiceB": "primaryColors"
+              },
+              {
+                "choiceC": "both a and b"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]     
+    },
+    "RE_0021": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "var dayName = function() {<br/>var names = ['Sunday', 'Monday', 'Tuesday', 'Wednesday','Thursday', 'Friday', 'Saturday'];<br/>return function(number) {<br/>return names[number];<br/>};<br/>}();<br/>console.log(dayName(3))?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "tuesday" 
+              },
+              {
+                "choiceB": "wednesday"
+              },
+              {
+                "choiceC": "thursday"
+              },
+              {
+                "choiceD": "error"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0022": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "var weekDay = function() {<br/>var names = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];<br/>return {<br/>name: function(number) { return names[number]; },<br/>number: function(name) { return names.indexOf(name); }<br/>};<br/>}();<br/>console.log(weekDay.name(weekDay.number('Sunday')))?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "0" 
+              },
+              {
+                "choiceB": "error"
+              },
+              {
+                "choiceC": "sunday"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]  
+    },
+    "RE_0023": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "(function(exports) {<br/>var names = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];<br/>exports.name = function(number) {<br/>return names[number];<br/>};<br/>exports.number = function(name) {<br/>return names.indexOf(name);<br/>};<br/>})(this.weekDay = {});<br/>console.log(weekDay.name(weekDay.number('Saturday')))?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "6" 
+              },
+              {
+                "choiceB": "saturday"
+              },
+              {
+                "choiceC": "undefined"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]     
+    },
+    "RE_0024": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "function require(name) {<br/>var code = new Function('exports', readFile(name));<br/>var exports = {};<br/>code(exports);<br/>return exports;<br/>}<br/>console.log(require('weekDay').name(1))?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "sunday" 
+              },
+              {
+                "choiceB": "monday"
+              },
+              {
+                "choiceC": "undefined"
+              },
+              {
+                "choiceD": "error"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ] 
+    },
+    "RE_0025": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which are the forms of client-side storage?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Web Databases" 
+              },
+              {
+                "choiceB": "FileSystem API"
+              },
+              {
+                "choiceC": "Offline Web Applications"
+              },
+              {
+                "choiceD": "All of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0026": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "To define each of the set classes as a property of the sets object (namespace) for the module, the statement is?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "sets = sets.AbstractEnumerableSet.extend();" 
+              },
+              {
+                "choiceB": "sets.SingletonSet = sets.AbstractEnumerableSet.extend(...);"
+              },
+              {
+                "choiceC": "sets.SingletonSet = sets.extend(...);"
+              },
+              {
+                "choiceD": "sets = sets.extend(...);"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0027": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Modules that have more than one item in their API can?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Assign itself to a global variable" 
+              },
+              {
+                "choiceB": "Invoke another module of the same kind"
+              },
+              {
+                "choiceC": "Return a namespace object"
+              },
+              {
+                "choiceD": "Invoke another module of the same kind"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0028": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "The provides() function and the exportsobject are used to?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Register the moduleâ€™s API and Store their API" 
+              },
+              {
+                "choiceB": "Store the moduleâ€™s API and register their API"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "None of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0029": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In MVC architecture, which part is responsible for user interaction logic?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Model" 
+              },
+              {
+                "choiceB": "View"
+              },
+              {
+                "choiceC": "Controller"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0030": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In MVC architecture Model refers to?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "UI that gets drawn to screen" 
+              },
+              {
+                "choiceB": "User interaction logic"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "Application state, and methods for manipulating and retrieving state"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0031": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Client-Side Concerns that every javascript applications deals with includes:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Module management" 
+              },
+              {
+                "choiceB": "Logging"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "none of above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0032": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Command to initialise project using node is?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "$ npm install" 
+              },
+              {
+                "choiceB": "$ mkdir my-first-project"
+              },
+              {
+                "choiceC": "$ npm start"
+              },
+              {
+                "choiceD": "$ npm init"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0033": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Passwords are vulnerable to ?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Rainbow tables" 
+              },
+              {
+                "choiceB": "Brute Force"
+              },
+              {
+                "choiceC": "Variable time equality"
+              },
+              {
+                "choiceD": "all of above"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0034": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Brute force attack uses which of the following technique?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "look up passwords using stolen hashes" 
+              },
+              {
+                "choiceB": "attempt to crack a password by seeking a match using every possible character combination"
+              },
+              {
+                "choiceC": "If it takes your service longer to say no to a slightly wrong password than a mostly wrong password, attackers can use that data to guess the password"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0035": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "what is possession factor?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Pairing a password with security questions" 
+              },
+              {
+                "choiceB": "some type of physical token or key to grant access to systems"
+              },
+              {
+                "choiceC": "some information that discloses some physical property of the user"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0036": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "what is Mozilla Persona?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "open source federated identity system that uses email addresses and short-lived tokens for identification"
+              },
+              {
+                "choiceB": "W3C-backed federated identity system that works in all current browsers built on top of existing web standards"
+              },
+              {
+                "choiceC": "both a and b"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0037": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following is the definition for debugging?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Finding bugs"
+              },
+              {
+                "choiceB": "Fixing bugs"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "None of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0038": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What kind of error notifications are shown in the console window?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Syntax error"
+              },
+              {
+                "choiceB": "Runtime error"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "None of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0039": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is the purpose of a JavaScript debugger?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Correction of errors"
+              },
+              {
+                "choiceB": "Placing script execution under control"
+              },
+              {
+                "choiceC": "Both a and b"
+              },
+              {
+                "choiceD": "None of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0040": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is it called when we make a mistake in the script?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Error"
+              },
+              {
+                "choiceB": "Bug"
+              },
+              {
+                "choiceC": "Mistake"
+              },
+              {
+                "choiceD": "All of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0041": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Security forensics involves examining:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Who was involved"
+              },
+              {
+                "choiceB": "What was compromised"
+              },
+              {
+                "choiceC": "Which systems were involved"
+              },
+              {
+                "choiceD": "all of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0042": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In k = i Ã— c, k is used to measure?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "infection potential of a virus"
+              },
+              {
+                "choiceB": "Number of invites sent by existing customers before they go inactive"
+              },
+              {
+                "choiceC": "Invite conversion rate"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0043": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What not to log in logging?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Timestamp"
+              },
+              {
+                "choiceB": "Requester IP address"
+              },
+              {
+                "choiceC": "Request ID"
+              },
+              {
+                "choiceD": "Passwords"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0044": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Most useful information among error log message is?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Timestamp"
+              },
+              {
+                "choiceB": "Error message"
+              },
+              {
+                "choiceC": "Stack trace"
+              },
+              {
+                "choiceD": "IP address"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0045": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Two foundational principles of API design that can help improve the usability of your API are?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Self-describing and Efficient"
+              },
+              {
+                "choiceB": "Efficient and Responsive"
+              },
+              {
+                "choiceC": "Focus and Consistency"
+              },
+              {
+                "choiceD": "Consistency and responsive"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0046": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "How to bring focus to your API?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "letting users build on prior knowledge while they learn how to use your service."
+              },
+              {
+                "choiceB": "present only the information your users need and eliminate clutter"
+              },
+              {
+                "choiceC": "both a and b"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0047": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Ways to achieve consistency includes:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Use standard REST conventions"
+              },
+              {
+                "choiceB": "Adopt a style for your API endpoints, and stick to that same style for every endpoint"
+              },
+              {
+                "choiceC": "Donâ€™t overwhelm API users with gigantic records"
+              },
+              {
+                "choiceD": "both a and b"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0048": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "HTTP GET can be used to?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Retrieve a resource representation"
+              },
+              {
+                "choiceB": "Update (replace) the resource"
+              },
+              {
+                "choiceC": "Delete a resource"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0049": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Continuous deployment process includes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "testing"
+              },
+              {
+                "choiceB": "integrating"
+              },
+              {
+                "choiceC": "deploying"
+              },
+              {
+                "choiceD": "all of the mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0050": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Creation of a feature begins with?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Development and Staging"
+              },
+              {
+                "choiceB": "naming and documentation"
+              },
+              {
+                "choiceC": "naming and Development"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0051": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "At which phase, features can be toggled on or off?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Development"
+              },
+              {
+                "choiceB": "Staging"
+              },
+              {
+                "choiceC": "Production Testing"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0052": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Organizing Features includes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Scale of a Feature"
+              },
+              {
+                "choiceB": "Feature Groups"
+              },
+              {
+                "choiceC": "both a and b"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0053": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is default Activation of a feature?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "feature is active by default across the whole system"
+              },
+              {
+                "choiceB": "feature is active on a user-by-user basis"
+              },
+              {
+                "choiceC": "both a and b"
+              },
+              {
+                "choiceD": "none"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0054": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following is the first phase of lifespan of a Feature?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Development"
+              },
+              {
+                "choiceB": "Staging"
+              },
+              {
+                "choiceC": "Production Testing"
+              },
+              {
+                "choiceD": "None"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0055": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Can CSS classes be used to toggle a feature?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Yes"
+              },
+              {
+                "choiceB": "no"
+              },
+              {
+                "choiceC": "Can't say"
+              },
+              {
+                "choiceD": "None"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0056": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "At which phase feature toggle is removed from the source code?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Production Testing"
+              },
+              {
+                "choiceB": "Staging"
+              },
+              {
+                "choiceC": "Full Integration"
+              },
+              {
+                "choiceD": "None"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0057": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which content type is reported as the biggest priority for companies' localization efforts?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Software"
+              },
+              {
+                "choiceB": "Technical publications"
+              },
+              {
+                "choiceC": "Social media content"
+              },
+              {
+                "choiceD": "Mobile Apps"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0058": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "What is generally the most important measurement of success for a company's localization efforts?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Quick translation"
+              },
+              {
+                "choiceB": "Brand consistency"
+              },
+              {
+                "choiceC": "Cost-efficient translation solutions"
+              },
+              {
+                "choiceD": "Consistency in quality"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0059": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which avenue do most companies use to learn and connect within their industry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Direct email"
+              },
+              {
+                "choiceB": "Industry-specific social networks"
+              },
+              {
+                "choiceC": "Tradeshows"
+              },
+              {
+                "choiceD": "Others"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_0060": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": "0",
+          "max": "1",
+          "min": "0"
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": ""
+          } 
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Internal business challenges companies have regarding localization are?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Lack of resources"
+              },
+              {
+                "choiceB": "Translation too slow and costly â€“ slowing global marketing"
+              },
+              {
+                "choiceC": "No internal localization/translation resources"
+              },
+              {
+                "choiceD": "all of mentioned"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    }
+  },
+  "test": {
+    "learning-objectives": {
+      "Building Production Ready Apps": {
+        "learning-objectives": {
+          "Restful API Development": {
+            "learning-objectives": {}
+          }
+        }
+      }
+    },
+    "tags": {
+      "test": {
+        "tags": {}
+      }
+    }
+  }
+}

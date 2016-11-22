@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+
+<head>
+    <title>Chapter 1. The JavaScript Revolution</title>
+    <link rel="stylesheet" type="text/css" href="core.css" />
+</head>
+
+<body>
+    <section class="chapter" title="Chapter 1. The JavaScript Revolution" epub:type="chapter" id="the_javascript_revolution">
+        <div class="chaptertitle">
+            <h2 class="title">Chapter 1. The JavaScript Revolution</h2>
+        </div>
+        <p>
+            JavaScript is
+            <span id="I_indexterm1_id307336" /> arguably the most important programming language on earth. Once thought of as a toy, JavaScript is now the most widely deployed programming language in history. Almost everyone with a computer or a smartphone has all the tools they need to execute JavaScript programs and to create their own. All you need is a browser and a text editor.
+        </p>
+        <p>
+            JavaScript, HTML, and CSS have become so prevalent that many operating systems have adopted the open web standards as the presentation layer for native apps, including
+            <a class="ulink" href="http://bit.ly/1pFDDx2" target="_top">Windows 8</a>,
+            <a class="ulink" href="http://mzl.la/1oO2i1J" target="_top">Firefox OS</a>,
+            <a class="ulink" href="http://bit.ly/1pFBnFV" target="_top">Gnome</a>, and Google’s
+            <a class="ulink" href="http://www.chromium.org/chromium-os" target="_top">Chrome OS</a> . Additionally, the iPhone and Android mobile devices support web views that allow them to incorporate JavaScript and HTML5 functionality into native applications.
+        </p>
+        <p>
+            JavaScript is also moving into the hardware world. Projects like
+            <a class="ulink" href="http://bit.ly/1iY0ceO" target="_top">Arduino</a>,
+            <a class="ulink" href="http://tessel.io/" target="_top">Tessel</a>,
+            <a class="ulink" href="http://www.espruino.com/" target="_top">Espruino</a>, and
+            <a class="ulink" href="http://nodebots.io/" target="_top">NodeBots</a> foreshadow a time in the near future where JavaScript could be a common language for embedded systems and robotics.
+        </p>
+        <p>
+            Creating a JavaScript program is as simple as editing a text file and opening it in the browser. There are no complex development environments to download and install, and no complex IDE to learn. JavaScript is easy to learn, too. The basic syntax is immediately familiar to any programmer who has been exposed to the C family syntax. No other language can boast a barrier to entry as low as JavaScript’s.
+        </p>
+        <p>
+            That low barrier to entry is probably the main reason that JavaScript was once widely (perhaps rightly) shunned as a toy. It was mainly used to create UI effects in the browser. That situation has changed.
+        </p>
+        <p>
+            For a long time, there was no way to save data with JavaScript. If you wanted data to persist, you had to submit a form to a web server and wait for a page refresh. That hindered the process of creating responsive and dynamic web applications. However, in 2000, Microsoft started shipping
+            <span id="I_indexterm1_id307423" /> Ajax technology in Internet Explorer. Soon after, other browsers added support for the
+            <span id="I_indexterm1_id307431" /> XMLHttpRequest object.
+        </p>
+        <p>
+            In 2004, Google launched Gmail. Initially applauded because it promised users nearly infinite storage for their email, Gmail also brought a major revolution. Gone were the page refreshes. Under the hood, Gmail was taking advantage of the new Ajax technology, creating a single-page, fast, and responsive web application that would forever change the way that web applications are designed.
+        </p>
+        <p>
+            Since that time, web developers have produced nearly every type of application, including full-blown, cloud-based office suites (see
+            <a class="ulink" href="http://zoho.com/" target="_top">Zoho.com</a> ), social APIs like Facebook’s JavaScript SDK, and even graphically intensive video games.
+        </p>
+        <p>
+            All of this is serving to
+            <span id="I_indexterm1_id307461" /> prove
+            <a class="ulink" href="http://bit.ly/1pFCjtR" target="_top">Atwood’s Law</a> : “Any application that can be written in JavaScript, will eventually be written in JavaScript.”
+        </p>
+        <section class="sect1 videoSection pagebreak" title="The JavaScript Revolution Video" id="I_sect11_id123456">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect11_id123456">The JavaScript Revolution - Video</h2>
+            </div>
+            <div class="videoContainer pagebreak">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h1 class="panel-title">Video 1.1<span>Launch Month: 06/07</span></h1>
+                    </div>
+                    <div class="panel-body no-padding text-align-center">
+                        <div class="panel-content">
+                            <div class="img-container">
+                                <img src="video.png" class="addVideo" data-video-path="juRtEEsHI9E" />
+                            </div>
+                            <div class="video-info">
+                                <h1>The JavaScript Revolution</h1>
+                                <small>Javascript, preloading images</small>
+                            </div>
+                            <div class="btn-container">
+                                <button class="btn btn-primary addVideo" id="video1" data-video-path="juRtEEsHI9E">
+                                    Play
+                                </button>
+                            </div>
+                            <div class="clearfix">
+                                <!-- keep this -->
+                            </div>
+                        </div>
+                        <div class="time-duration">
+                            Video Duration: <strong>4 mins 30 sec</strong>
+                        </div>
+                        <div class="additional-info">
+                            Author(s): <strong>Don Fykes</strong>
+                        </div>
+                    </div>
+                    <div class="panel-footer text-align-right">
+                        <!-- keep this -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="sect1" title="Advantages of JavaScript" id="I_sect11_id307474">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect11_id307474">Advantages of JavaScript</h2>
+            </div>
+            <p>
+                JavaScript didn’t just
+                <span id="ja1.1" /> luck into its position as the dominant client-side language on the Web. It is actually very well suited to be the language that took over the world. It is one of the most advanced and expressive programming languages developed to date. The following sections outline some of the features you may or may not be familiar with.
+            </p>
+            <div class="sect2" title="Performance">
+                <div class="titlepage">
+                    <h3 class="title" id="id778865">Performance</h3>
+                </div>
+                <p>
+                    Just-in-time compiling: in
+                    <span id="I_indexterm1_id307508" /> modern browsers, most JavaScript is compiled, highly optimized, and executed like native code, so runtime performance is close to that of software written in C or C++. Of course, there is still the overhead of garbage collection and dynamic binding, so it is possible to do certain things faster; however, the difference is generally not worth sweating over until you’ve optimized everything else. With
+                    <a class="ulink" href="http://nodejs.com/" target="_top">Node.js</a> (a high-performance,
+                    <span id="I_indexterm1_id307531" /> evented, server-side JavaScript environment built on Google’s highly optimized V8 JavaScript engine), JavaScript apps are event driven and nonblocking, which generally more than makes up for the code execution difference between JavaScript and less dynamic languages.
+                </p>
+            </div>
+            <div class="sect2" title="Objects">
+                <div class="titlepage">
+                    <h3 class="title" id="id764770">Objects</h3>
+                </div>
+                <p>
+                    JavaScript has very rich
+                    <span id="I_indexterm1_id307553" /> object-oriented (OO) features.
+                    <span id="I_indexterm1_id307563" />
+                    <span id="I_indexterm1_id307572" /> The <em> JSON</em> (JavaScript Object Notation) standard used in nearly all modern web applications for both communication and data persistence is a subset of JavaScript’s excellent
+                    <span id="I_indexterm1_id307589" /> object-literal notation.
+                </p>
+                <p>
+                    JavaScript uses
+                    <span id="I_indexterm1_id307602" />
+                    <span id="I_indexterm1_id307611" /> a <em> prototypal inheritance</em> model. Instead of classes, you have object prototypes. New objects automatically inherit methods and attributes of their parent object
+                    <span id="I_indexterm1_id307625" /> through the
+                    <em>prototype chain</em> . It’s possible to modify an object’s prototype at any time, making JavaScript a very flexible, dynamic language.
+                </p>
+                <p>
+                    Prototypal OO is so much more flexible than
+                    <span id="I_indexterm1_id307641" />
+                    <span id="I_indexterm1_id307650" /> classical inheritance that it’s possible to mimic Java’s class-based OO and inheritance models in JavaScript virtually feature for feature, and in most cases, with less code. The reverse is not true.
+                </p>
+                <p>
+                    Contrary to common belief, JavaScript supports features like encapsulation, polymorphism, multiple inheritance, and composition. You’ll learn more about these topics in
+                    <a class="xref" href="ch03.html" title="Chapter 3. Objects">Chapter 3</a> .
+                </p>
+            </div>
+            <div class="sect2" title="Syntax">
+                <div class="titlepage">
+                    <h3 class="title" id="id687597">Syntax</h3>
+                </div>
+                <p>
+                    The JavaScript
+                    <span id="I_indexterm1_id307682" /> syntax should be immediately familiar to anybody who has experience with C-family languages, such as C++, Java, C#, and PHP. Part of JavaScript’s popularity is due to its familiarity, though it’s important to understand that JavaScript behaves very differently from all of these under the hood.
+                </p>
+                <p>
+                    JavaScript’s object-literal syntax
+                    <span id="I_indexterm1_id307695" /> is so simple, flexible, and concise, it was adapted to become the dominant standard for
+                    <span id="I_indexterm1_id307706" /> client/server communication in the form of JSON, which is more compact and flexible than the XML that it replaced.
+                </p>
+            </div>
+            <div class="sect2" title="First-Class Functions">
+                <div class="titlepage">
+                    <h3 class="title" id="id780251">First-Class Functions</h3>
+                </div>
+                <p>
+                    In JavaScript, objects
+                    <span id="I_indexterm1_id307727" />
+                    <span id="I_indexterm1_id307736" /> are not a tacked-on afterthought. Nearly everything in JavaScript is an object, including functions. Because of that feature, functions can be used anywhere you might use a variable, including the parameters in function calls. That feature is often used to define anonymous callback functions for asynchronous operations, or to
+                    <span id="I_indexterm1_id307746" /> create
+                    <em>higher order functions</em> (functions that take other functions as parameters, return a function, or both). Higher-order functions are
+                    <span id="I_indexterm1_id307757" /> used in the
+                    <em>functional programming</em> style to abstract away commonly repeated coding patterns, such as iteration loops or other instruction sets that differ mostly in the variables or data they consume.
+                </p>
+                <p>
+                    Good examples of functional programing include functions like
+                    <code>.map()</code> ,
+                    <code>.reduce()</code> , and
+                    <code>.forEach()</code> . The
+                    <a class="ulink" href="http://bit.ly/1pFECwY" target="_top">Underscore.js</a> library
+                    <span id="I_indexterm1_id307792" /> contains many useful functional utilities. For simplicity, we’ll be making use of Underscore.js in this book.
+                </p>
+            </div>
+            <div class="sect2" title="Events">
+                <div class="titlepage">
+                    <h3 class="title" id="id808722">Events</h3>
+                </div>
+                <p>
+                    Inside the browser,
+                    <span id="I_indexterm1_id307812" /> everything runs in an event loop. JavaScript coders quickly learn to think in terms of event handlers, and as a result, code from experienced JavaScript developers tends to be well organized and efficient. Operations that might block processing in other languages happen concurrently in JavaScript.
+                </p>
+                <p>
+                    If you click something, you want something to happen instantly. That impatience has led to wonderful advancements in UI design, such as
+                    <span id="I_indexterm1_id307830" /> Google Instant and the groundbreaking address lookup on
+                    <a class="ulink" href="http://thewildernessdowntown.com/" target="_top">
+        The Wilderness Downtown
+      </a> . (“The Wilderness Downtown” is an
+                    <span id="I_indexterm1_id307844" /> interactive short film by
+                    <span id="I_indexterm1_id307853" /> Chris Milk set to the Arcade Fire song, “We Used To Wait.” It was built entirely with the latest open web technologies.) Such functionality is powered by Ajax calls that do their thing in the background without slowing down the UI.
+                </p>
+            </div>
+            <div class="sect2" title="Reusability">
+                <div class="titlepage">
+                    <h3 class="title" id="id682337">Reusability</h3>
+                </div>
+                <p>
+                    JavaScript code, by
+                    <span id="I_indexterm1_id307874" /> virtue of its ubiquity, is the most portable, reusable code around. What other language lets you write the same code that runs natively on both the client and the
+                    <span id="I_indexterm1_id307882" /> server? (See
+                    <a class="xref" href="ch05.html#getting-started-with-node-and-express" title="Getting Started with Node and Express">Getting Started with Node and Express</a> to learn about an event-driven JavaScript environment that is revolutionizing server-side development.)
+                </p>
+                <p>
+                    JavaScript can be modular and encapsulated, and it is common to see scripts written by six different teams of developers who have never communicated working in harmony on the same page.
+                </p>
+            </div>
+            <div class="sect2" title="The Net Result">
+                <div class="titlepage">
+                    <h3 class="title" id="id402301">The Net Result</h3>
+                </div>
+                <p>
+                    JavaScript developers are at the heart of what may be the single biggest revolution in the history of computing: the dawn of the realtime web. Messages pass back and forth across the net, in some cases with each keystroke, or every move of the mouse. We’re writing applications that put desktop application UI’s to shame. Modern JavaScript applications are the most responsive, most socially engaging applications ever written—and if you don’t know JavaScript yet, you’re missing the boat. It’s time to get on board, before you get left
+                    <span id="I_indexterm1_id307928" /> behind.
+                </p>
+            </div>
+
+        </section>
+        <section class="sect1 activitySection pagebreak" title="Practice 1" id="test1">
+            <div class="titlepage">
+                <h2 class="title clear" id="test1">Practice 1</h2>
+            </div>
+            <div class="activityObjectContainer pagebreak">
+                <object class="activity" height="auto" width="100%" id="activity01_01" >
+                      <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h1 class="panel-title">Practice Exercise 1.1</h1>
+                        </div>
+                        <div class="panel-body no-padding text-align-center">
+                            <div class="panel-content">
+                                <div class="img-container">
+                                    <img src="assessment.png" />
+                                </div>
+                                <div class="activity-info">
+                                    <h1>Functions &amp; Objects</h1>
+                                    <small>Practice</small>
+                                </div>
+                                <div class="btn-container">
+                                    <button class="btn btn-primary beginActivity">BEGIN</button>
+                                </div>
+                                <div class="clearfix">
+                                    <!-- keep this -->
+                                </div>
+                            </div>
+                            <div class="time-duration">
+                                Last Attempted: <strong>Few minutes ago</strong>
+                            </div>
+                            <div class="additional-info">
+                                Average Proficiency: <strong>30%</strong>
+                            </div>
+                        </div>
+                        <div class="panel-footer text-align-right">
+                            <!-- keep this -->
+                        </div>
+                    </div>                  
+                </object>
+            </div>
+        </section>
+        <section class="sect1" title="Anatomy of a Typical Modern JavaScript App" id="I_sect11_id307940">
+            <div class="titlepage">
+                <h2 class="title clear" id="I_sect11_id307940">Anatomy of a Typical Modern JavaScript App</h2>
+            </div>
+            <p>
+                While every app is
+                <span id="ja1.2" /> unique, most share some common concerns, such as hosting infrastructure, resource management, presentation, and UI behaviors. This section covers where these various elements typically live in the application and the common mechanisms that allow them to communicate.
+            </p>
+            <div class="sect2" title="Infrastructure">
+                <div class="titlepage">
+                    <h3 class="title" id="id459521">Infrastructure</h3>
+                </div>
+                <p>
+                    Infrastructure
+                    <span id="in1.2.1" /> can come in many flavors and have lots of different caching mechanisms. Generally, it consists of (back to front):
+                </p>
+                <div>
+                    <ul>
+                        <li>
+                            <p>A data store</p>
+                        </li>
+                        <li>
+                            <p>
+                                A virtual private network (VPN)
+                                <span id="I_indexterm1_id308000" />
+                                <span id="I_indexterm1_id308005" /> or firewall (to protect the data store from unauthorized access)
+                            </p>
+                        </li>
+                        <li>
+                            <p>A black box JSON RESTful Web Service Layer</p>
+                        </li>
+                        <li>
+                            <p>Various third-party APIs</p>
+                        </li>
+                        <li>
+                            <p>
+                                An app server/content management system (CMS)
+                                <span id="I_indexterm1_id308034" />
+                                <span id="I_indexterm1_id308039" /> to route requests and deliver pages to the client
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                A static content deliver network (CDN)
+                                <span id="I_indexterm1_id308054" />
+                                <span id="I_indexterm1_id308059" /> for cached files (like images, JavaScript, CSS, and client-side templates)
+                            </p>
+                        </li>
+                        <li>
+                            <p>The client (browser)</p>
+                        </li>
+                    </ul>
+                </div>
+                <p>
+                    To see how these generally fit together, see
+                    <a class="xref" href="ch01.html#infrastructure-diagram" title="Figure 1-1. Infrastructure">Figure 1-1</a> .
+                </p>
+                <div class="figure">
+                    <span id="infrastructure-diagram" />
+                    <div class="figure-contents">
+                        <span id="I_mediaobject1_id308094" />
+                        <!-- <a class="fancybox" href="httpatomoreillycomsourceoreillyimages2046607.png" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"> -->
+                        <img src="httpatomoreillycomsourceoreillyimages2046607.png" alt="Infrastructure" />
+                        <!-- </a> -->
+                    </div>
+                    <div class="figure-title">Figure 1-1. Infrastructure</div>
+                </div>
+                <p>
+                    Most of these components are self explanatory, but there are some important points that you should be aware of concerning the storage and communication of application data.
+                </p>
+                <p>
+                    The data store is just like it sounds: a place to store your application data. This is commonly a relational database management system (RDBMS)
+                    <span id="I_indexterm1_id308118" />
+                    <span id="I_indexterm1_id308124" /> with a Structured Query Language (SQL) API,
+                    <span id="I_indexterm1_id308132" />
+                    <span id="I_indexterm1_id308137" /> but the popularity of NoSQL
+                    <span id="I_indexterm1_id308144" /> solutions is on the rise. In the future, it’s likely that many applications will use a combination of
+                    <span id="I_indexterm1_id308152" /> both.
+                </p>
+            </div>
+            <div class="sect2" title="JSON: Data Storage and Communication">
+                <div class="titlepage">
+                    <h3 class="title" id="id402920">JSON: Data Storage and Communication</h3>
+                </div>
+                <p>
+                    JavaScript Object Notation (JSON) is an
+                    <span id="ja1.2.2" />
+                    <span id="js1.2.2" />
+                    <span id="da1.2.2" />
+                    <span id="st1.2.2" /> open standard developed by Douglas Crockford
+                    <span id="I_indexterm1_id308219" /> that specifies a subset of the native JavaScript object-literal syntax
+                    <span id="I_indexterm1_id308226" /> for use in data representation, communication, and storage.
+                </p>
+                <p>
+                    Prior to the JSON specification, most
+                    <span id="I_indexterm1_id308241" /> client-server communications were being delivered in much more verbose XML snippets. JavaScript developers often work with JSON web services and frequently define internal data using JSON syntax.
+                </p>
+                <p>
+                    Take this example message, describing a collection of books:
+                </p>
+                <span id="I_programlisting1_id308258" />
+                <pre class="programlisting">
+          <code class="p">[</code>
+            <code class="p">{</code>
+                <code class="nt">"title"</code> <code class="p">:</code> <code class="s2">"JavaScript: The Good Parts"</code><code class="p">,</code>
+                <code class="nt">"author"</code> <code class="p">:</code> <code class="s2">"Douglas Crockford"</code><code class="p">,</code>
+                <code class="nt">"ISBN"</code> <code class="p">:</code> <code class="s2">"0596517742"</code>
+            <code class="p">},</code>
+            <code class="p">{</code>
+                <code class="nt">"title"</code> <code class="p">:</code> <code class="s2">"JavaScript Patterns"</code><code class="p">,</code>
+                <code class="nt">"author"</code> <code class="p">:</code> <code class="s2">"Stoyan Stefanov"</code><code class="p">,</code>
+                <code class="nt">"ISBN"</code> <code class="p">:</code> <code class="s2">"0596806752"</code>
+            <code class="p">}</code>
+          <code class="p">]</code>
+        </pre>
+                <p>
+                    As you can see, this format is nearly identical to JavaScript’s object-literal syntax, with a couple important differences:
+                </p>
+                <div>
+                    <ul>
+                        <li>
+                            <p>
+                                All attributes names and string values must be enclosed in double quotes. Other values may appear in their literal form.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                JSON records cannot contain
+                                <span id="I_indexterm1_id308288" /> circular references.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                JSON cannot contain
+                                <span id="I_indexterm1_id308302" />
+                                <span id="I_indexterm1_id308310" />
+                                <span id="I_indexterm1_id308318" /> functions.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sect2" title="NoSQL Data Stores">
+                <div class="titlepage">
+                    <h3 class="title" id="id385796">NoSQL Data Stores</h3>
+                </div>
+                <p>
+                    Prior to the
+                    <span id="I_indexterm1_id308340" /> advent of Extensible Markup Language (XML)
+                    <span id="I_indexterm1_id308347" />
+                    <span id="I_indexterm1_id308353" /> and JSON data stores, nearly all web services were backed by RDBMS. An RDBMS stores
+                    <span id="I_indexterm1_id308361" />
+                    <span id="I_indexterm1_id308367" /> discrete data points in tables and groups data output using table lookups in response to SQL queries.
+                </p>
+                <p>
+                    NoSQL data stores, in contrast, store entire records in documents or document snippets without resorting to table-based structured storage. Document-oriented data stores commonly store data in XML format, while object-oriented data stores commonly employ the JSON format. The latter are particularly well suited to web application development, because JSON is the format you use to communicate natively in JavaScript.
+                </p>
+                <p>
+                    Examples of popular JSON-based NoSQL data stores
+                    <span id="I_indexterm1_id308385" />
+                    <span id="I_indexterm1_id308391" /> include
+                    <a class="ulink" href="http://www.mongodb.org/" target="_top">MongoDB</a> and
+                    <a class="ulink" href="http://couchdb.apache.org/" target="_top">CouchDB</a> . Despite the recent popularity of NoSQL, it is still common to find modern JavaScript applications backed by MySQL and similar
+                    <span id="I_indexterm1_id308410" />
+                    <span id="I_indexterm1_id308418" /> RDBMSs.
+                </p>
+            </div>
+            <div class="sect2" title="RESTful JSON Web Services">
+                <div class="titlepage">
+                    <h3 class="title" id="restful-json-section">RESTful JSON Web Services</h3>
+                </div>
+                <p>
+                    <em>Representational State Transfer</em> (REST) is
+                    <span id="rep1.2.4" />
+                    <span id="res1.2.4" />
+                    <span id="cl1.2.4" />
+                    <span id="js1.2.4" />
+                    <span id="ja1.2.4" /> a client-server communication architecture that creates a separation of concerns between data resources and user interfaces (or other data resource consumers, such as data analysis tools and aggregators). Services that implement REST are referred to as RESTful. The server manages data resources (such as user records). It does not implement the user interface (look and feel). Clients are free to implement the UI (or not) in whatever manner or language is desired. REST architecture does not address how user interfaces are implemented. It only deals with maintaining application state between the client and the server.
+                </p>
+                <p>
+                    RESTful web services
+                    <span id="I_indexterm1_id308512" /> use HTTP verbs to
+                    <span id="ht1.2.4" /> tell the server what action the client intends. The actions supported are:
+                </p>
+                <div>
+                    <ul>
+                        <li>
+                            <p>
+                                Create a new entry in the resource
+                                <span id="po1.2.4" /> collection: HTTP POST.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Retrieve a resource
+                                <span id="I_indexterm1_id308562" /> representation: HTTP GET verb.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Update (replace) the
+                                <span id="pu1.2.4" /> resource: HTTP PUT.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Delete a
+                                <span id="I_indexterm1_id308593" /> resource: HTTP DELETE.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <p>
+                    This might look familiar if you’re familiar with
+                    <span id="I_indexterm1_id308606" /> CRUD (create, retrieve, update, delete). Just remember that in the REST mapping, update really means
+                    <em>replace</em> .
+                </p>
+                <p>
+                    <a class="xref" href="ch01.html#fig1-2" title="Figure 1-2. REST sequence">Figure 1-2</a> shows a typical state transfer flow.
+                </p>
+                <div class="figure">
+                    <span id="fig1-2" />
+                    <div class="figure-contents">
+                        <span id="I_mediaobject1_id308634" />
+                        <img src="httpatomoreillycomsourceoreillyimages2046608.png" alt="REST sequence" />
+                    </div>
+                    <div class="figure-title">Figure 1-2. REST sequence</div>
+                </div>
+                <div class="orderedlist">
+                    <ol class="orderedlist" type="1">
+                        <li>
+                            <p>
+                                The client requests data from the server with an HTTP GET request to the resource
+                                <em>uniform resource
+              indicator</em> (URI).
+                                <span id="I_indexterm1_id308665" />
+                                <span id="I_indexterm1_id308671" /> Each resource on the server has a unique URI.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The server retrieves the data (typically from a database or cache) and packages it into a convenient representation for the client.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Data is returned in the form of a document. Those documents are commonly text strings containing JSON encoded objects, but REST is agnostic about how you package your data. It’s also common to see XML-based RESTful services. Most new services default to JSON formatted data, and many support both XML and JSON.
+                            </p>
+                        </li>
+                        <li>
+                            <p>The client manipulates the data representation.</p>
+                        </li>
+                        <li>
+                            <p>
+                                The client makes a call to the same endpoint URI with a PUT, sending back the manipulated data.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                The resource data on the server is replaced by the data in the PUT request.
+                            </p>
+                        </li>
+                    </ol>
+                </div>
+                <p>
+                    It’s common to be confused about whether to use PUT or POST to change a resource. REST eases that confusion. PUT is used if the client is capable of generating its own safe IDs. Otherwise, a POST request is always made on a collection to create a new resource. In this case, the server generates the ID and returns it to the client.
+                </p>
+                <p>
+                    For example, you might create a new user by hitting
+                    <code>/users/</code> with a POST request, at which point the server will generate a unique ID that you can use to access the new resource at
+                    <code>/users/<em class="replaceable"><code>userid</code></em>
+                    </code>
+                    . The server will return a new user representation with its own unique URI. You shouldn’t modify an existing resource with POST; you can add only children to it.
+                </p>
+                <p>
+                    Use PUT to change the user’s display name by hitting
+                    <code>/users/<em class="replaceable"><code>userid</code>
+                    </em>
+                    </code>
+                    with the updated user record. Note that this will completely replace the user record, so make sure that the representation you PUT contains everything you want it to contain.
+                </p>
+                <p>
+                    You can learn more about
+                    <span id="I_indexterm1_id308756" />
+                    <span id="I_indexterm1_id308765" />
+                    <span id="I_indexterm1_id308773" />
+                    <span id="I_indexterm1_id308781" />
+                    <span id="I_indexterm1_id308790" />
+                    <span id="I_indexterm1_id308798" />
+                    <span id="I_indexterm1_id308806" />
+                    <span id="I_indexterm1_id308814" />
+                    <span id="I_indexterm1_id308823" /> working with REST in
+                    <a class="xref" href="ch08.html" title="Chapter 8. Building RESTful APIs">Chapter 8</a> .
+                </p>
+            </div>
+        </section>
+        <section class="sect1 activitySection pagebreak" title="Practice 2" id="test01_02">
+            <div class="titlepage">
+                <h2 class="title clear" id="test01_02">Practice 2</h2>
+            </div>
+            <div class="activityObjectContainer pagebreak">
+                <object class="activity" height="auto" width="100%" id="activity01_02">
+                      <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h1 class="panel-title">Practice Exercise 1.2</h1>
+                        </div>
+                        <div class="panel-body no-padding text-align-center">
+                            <div class="panel-content">
+                                <div class="img-container">
+                                    <img src="assessment.png" />
+                                </div>
+                                <div class="activity-info">
+                                    <h1>JS statements</h1>
+                                    <small>Practice</small>
+                                </div>
+                                <div class="btn-container">
+                                    <button class="btn btn-primary beginActivity">BEGIN</button>
+                                </div>
+                                <div class="clearfix">
+                                    <!-- keep this -->
+                                </div>
+                            </div>
+                            <div class="time-duration">
+                                Last Attempted: <strong>Few minutes ago</strong>
+                            </div>
+                            <div class="additional-info">
+                                Average Proficiency: <strong>30%</strong>
+                            </div>
+                        </div>
+                        <div class="panel-footer text-align-right">
+                            <!-- keep this -->
+                        </div>
+                    </div>
+                </object>
+            </div>
+        </section>
+    </section>
+</body>
+
+</html>

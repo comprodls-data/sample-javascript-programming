@@ -1,0 +1,279 @@
+{
+  "definition": {
+    "learning-objectives": {
+      "Foundations of Javascript": {
+        "learning-objectives": {
+          "History and Evolution": {
+            "learning-objectives": {}
+          },
+          "Function and Objects": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Patterns and Best Practices": {
+        "learning-objectives": {
+          "Using Modules": {
+            "learning-objectives": {}
+          },
+          "Abstraction, Separation of Concerns": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Building Production Ready Apps": {
+        "learning-objectives": {
+          "Access Control, Logging and Error handling": {
+            "learning-objectives": {}
+          },
+          "Restful API Development": {
+            "learning-objectives": {}
+          },
+          "Multi-lingual Applications": {
+            "learning-objectives": {}
+          },
+          "Conventions": {
+            "learning-objectives": {}
+          }
+        }
+      }
+    },
+    "tags": {
+      "reading": {
+        "tags": {}
+      },
+      "videos": {
+        "tags": {}
+      },
+      "practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
+    }
+  },
+  
+  "items": {
+    "default":[
+      {
+        "name": "Preface",
+        "item-type": "resource",
+        "item-code": "Preface",
+        "resource": "RE_0001",
+        "tracking": true
+      },
+      {
+        "name": "The JavaScript Revolution",
+        "item-type": "resource",
+        "item-code": "The_JavaScript_Revolution",
+        "resource": "RE_0002",
+        "tracking": true
+      }
+    ]
+  },
+  "resources": {
+    "epub_unit": {
+      "RE_0001": {
+        "sections": [
+          {
+            "name": "Introduction",
+            "code": "Preface/Introduction",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id306737",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Who This Book Is For",
+            "code": "Preface/Who_This_Book_Is_For",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id306832",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Who This Book Is Not For",
+            "code": "Preface/Who_This_Book_Is_Not_For",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id306856",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Unit Testing",
+            "code": "Preface/Unit_Testing",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id306974",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Conventions Used in This Book",
+            "code": "Preface/Conventions_Used_in_This_Book",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id307002",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "How to Contact Us",
+            "code": "Preface/How_to_Contact_Us",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id307133",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Thanks",
+            "code": "Preface/Thanks",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect1_id307243",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          }
+        ]
+      },
+      "RE_0002": {
+        "sections": [
+          {
+            "name": "The JavaScript Revolution - Video",
+            "code": "The_JavaScript_Revolution/The_JavaScript_Revolution_-_Video",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect11_id123456",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "videos"
+            ]
+          },
+          {
+            "name": "Advantages of JavaScript",
+            "code": "The_JavaScript_Revolution/Advantages_of_JavaScript",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect11_id307474",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Practice 1",
+            "code": "The_JavaScript_Revolution/Practice_1",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "test1",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "sub-type": "test",
+            "tags": [
+              "Test"
+            ],
+            "test": {
+              "url": "activity01_01"
+            }
+          },
+          {
+            "name": "Anatomy of a Typical Modern JavaScript App",
+            "code": "The_JavaScript_Revolution/Anatomy_of_a_Typical_Modern_JavaScript_App",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "I_sect11_id307940",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "tags": [
+              "reading"
+            ]
+          },
+          {
+            "name": "Practice 2",
+            "code": "The_JavaScript_Revolution/Practice_2",
+            "tracking": true,
+            "interaction_type": "html",
+            "epub_link": "test01_02",
+            "learning-objectives": [
+              "Foundations of Javascript/History and Evolution"
+            ],
+            "sub-type": "test",
+            "tags": [
+              "Test"
+            ],
+            "test": {
+              "url": "activity01_02"
+            }
+          }
+        ]
+      }
+    },
+    "test": {},
+    "ebook": {},
+    "generic": {
+      "RE_0001": {
+        "sub-type": "epub_unit",
+        "epub_unit": {
+          "url": "OEBPS/pr02.html",
+          "epub_unit_id": "id-id651786"
+        }
+      },
+      "RE_0002": {
+        "sub-type": "epub_unit",
+        "epub_unit": {
+          "url": "OEBPS/ch01.html",
+          "epub_unit_id": "id-id797726"
+        }
+      }
+    }
+  },
+  "meta" : {
+    "schema" : 1,
+    "title": "JavaScript, 201",
+    "author": "Eric Elliott",
+    "thumbnailsmall": "OEBPS/cover.jpg",
+    "thumbnaillarge": "OEBPS/cover.jpg",
+    "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.",
+    "producttype": "etextbook",
+    "code": "javascript"
+  }
+}
