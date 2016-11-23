@@ -268,12 +268,12 @@
   },
   "meta" : {
     "schema" : 1,
-    "title": "Sample Javascript For Ingestion",
+    "title": "Sample Javascript Integration AdminTool",
     "author": "Eric Elliott",
     "thumbnailsmall": "OEBPS/cover.jpg",
     "thumbnaillarge": "OEBPS/cover.jpg",
     "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.",
     "producttype": "etextbook",
-    "code": "ingestion_integration_master"
+    "code": "Integration_Admin_tool"
   }
 }
